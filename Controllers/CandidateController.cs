@@ -125,7 +125,7 @@ namespace CMS.Controllers
                     da.Fill(table);
                 }
 
-                return "Deleted Successfully!";
+                return "Deleted Successfully!!";
             }
             catch (Exception)
             {
